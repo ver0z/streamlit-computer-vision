@@ -23,7 +23,7 @@ def main():
         st.text("por Carlos Melo")
         st.markdown(f"""
                         ℹ️ Projeto da Masterclass Introdução à Visão Computacional, do Carlos Melo (Sigmoidal).
-                        Para saber mais sobre a Masterclass, acesse [esta página](https://pay.hotmart.com/K44730436X?checkoutMode=10&bid=1608039415553).
+                        Para saber mais sobre a Masterclass, acesse [esta página](https://github.com/ver0z/Computer-Vision-MasterClass).
                         """)
 
         # carregar e exibir imagem
