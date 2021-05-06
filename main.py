@@ -127,10 +127,10 @@ def main():
 
     elif escolha == 'Sobre':
         st.subheader("Este é um projeto da Masterclass Introdução à Visão Computacional.")
-        st.markdown("Para saber mais informações, acesse [este site.](https://sigmoidal.ai)")
-        st.text("Carlos Melo")
-        st.success("Instagram @carlos_melo.py")
-        st.video("https://www.youtube.com/watch?v=JhkhbTTxlQg")
+        st.markdown("Sou Evair e esse é um dos projetos que desenvolvo em Python")
+        st.text("Evair Silva")
+        st.success("Instagram @evair.silvester")
+        
 
 
 if __name__ == '__main__':
