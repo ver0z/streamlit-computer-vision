@@ -93,7 +93,7 @@ def main():
 
             col1.header("Original")
             col1.image(our_image, use_column_width=True)
-            col2.header("Sépia")
+            col2.header("Blur")
             col2.image(blur_image, channels="BGR", use_column_width=True)
             # st.image(blur_image, channels="BGR", width=OUTPUT_WIDTH, caption="Imagem com filtro Blur ({} x {}).".format(b_amount, b_amount))
 
