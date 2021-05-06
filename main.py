@@ -130,6 +130,7 @@ def main():
         st.markdown("Sou Evair e esse é um dos projetos que desenvolvo em Python")
         st.text("Evair Silva")
         st.success("Instagram @evair.silvester")
+        st.success("Linkedin https://www.linkedin.com/in/evairsilva/")
         
 
 
