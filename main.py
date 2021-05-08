@@ -20,9 +20,9 @@ def main():
 
     if escolha == "Filtros":
         st.title("Masterclass Visão Computacional")
-        st.text("por Carlos Melo")
+        st.text("por Evair Silvester")
         st.markdown(f"""
-                        ℹ️ Projeto da Masterclass Introdução à Visão Computacional, do Carlos Melo (Sigmoidal).
+                        ℹ️ Projeto da Masterclass Introdução à Visão Computacional (Sigmoidal).
                         Para saber mais sobre a Masterclass, acesse [esta página](https://github.com/ver0z/Computer-Vision-MasterClass).
                         """)
 
